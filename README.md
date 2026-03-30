@@ -34,3 +34,6 @@ app.py → Archivo principal de la aplicación web.
 cars.csv → Conjunto de datos de los coches.
 requirements.txt → Librerías necesarias para ejecutar la app.
 README.md → Este archivo con instrucciones y detalles del proyecto.
+Dashboard en línea:
+
+Puedes ver la aplicación web aquí: https://vehicles-project-2-v8id.onrender.com
